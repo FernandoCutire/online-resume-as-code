@@ -1,2 +1,3 @@
-# online-resume
-Resources related to my cv. 
+# Fernando Cutire Online Resume
+
+This repository contains information related to my CV

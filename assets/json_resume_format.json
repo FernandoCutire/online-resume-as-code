@@ -1,0 +1,64 @@
+{
+  "basic_info": {
+    "name": "Fernando Cutire",
+    "role": "Cloud Data Engineer",
+    "website": "fernandocutire.com"
+  },
+  "summary": "Highly skilled and experienced Big Data Engineer with a strong focus on churn analysis. Proven track record in designing and implementing large-scale data processing systems and predicting customer behavior. Proficient in a variety of data tools and programming languages. Committed to helping businesses make data-driven decisions and improve customer retention.",
+  "skills": [
+    "SQL",
+    "Python",
+    "Cloud (AWS)",
+    "Big Data (Spark)",
+    "Data Warehousing",
+    "Data Analytics & Business Intelligence",
+    "Problem Solving",
+    "Machine Learning",
+    "Project Management",
+    "Written and Verbal Communication",
+    "Data Visualization",
+    "Time Management"
+  ],
+  "experience": [
+    {
+      "company": "Liberty Latin America",
+      "role": "Data Engineer",
+      "duration": "December 2022 – Present",
+      "achievements": [
+        "Collaborated on machine learning projects within an agile team environment, contributing to the development and implementation of advanced solutions that improved system efficiency by 30%.",
+        "Engineered data pipelines utilizing renowned AWS services, driving AI/ML opportunities for telecommunications businesses across Latin America, resulting in a 20% increase in data processing speed and a 15% increase in customer satisfaction.",
+        "Fostered close collaboration with business analytics and data scientists to streamline the development of automation strategies, enhancing the efficiency of exploration, feature engineering, and modeling processes.",
+        "Leveraged churn analysis and machine learning models to drive strategic decisions in the telecommunications industry, working with various operational companies across Latin America."
+      ]
+    },
+    {
+      "company": "Ayudinga",
+      "role": "Data Engineer",
+      "duration": "June 2022 – December 2022",
+      "achievements": [
+        "Spearheaded the introduction of a comprehensive project management system, leading to a significant enhancement in operational efficiency with a 70% increase in productivity.",
+        "Worked in a fast-paced environment with both technology and marketing areas to assess department communication.",
+        "Developed and maintained robust data pipelines, ensuring the accuracy and availability of data for key business decisions.",
+        "Implemented innovative data modeling techniques, improving the efficiency of data storage and retrieval and facilitating insightful data analysis."
+      ]
+    },
+    {
+      "company": "Technological University of Panama",
+      "role": "Data Analyst",
+      "duration": "Feb 2022 – December 2022",
+      "achievements": [
+        "Managed a monolithic full-stack application with 550+ active users and 25+ requests successfully solved.",
+        "Developed fast and reliable reports from 5+ data sources and 5k+ entries to aid stakeholders in making decisions."
+      ]
+    }
+  ],
+  "education": {
+    "degree": "Computer Science - Data Analytics",
+    "institution": "Technological University of Panama",
+    "years": "2019 - 2023"
+  },
+  "languages": [
+    "English",
+    "Spanish"
+  ]
+}
